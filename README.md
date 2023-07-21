@@ -163,8 +163,6 @@ Upon clicking the button, MetaMask should pop up asking for approval of the tran
 We were successfully able to write the smart contract for a Flash Loan! We were able to borrow DAI from the pool, pay the Flash Loan fee, and then repay the borrowed amount all in a single transaction. You just borrowed money with no collateral!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-```If you enjoyed this full tutorial do consider following me on github as well as on my instagram!!```
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 > 0x592eF244F8924be9F3F8803f8d639392f465Ac51
