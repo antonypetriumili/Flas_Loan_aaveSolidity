@@ -169,6 +169,7 @@ We were successfully able to write the smart contract for a Flash Loan! We were 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Other questions can be solved by contacting ambassadors
  
 
 
